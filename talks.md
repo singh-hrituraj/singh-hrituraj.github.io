@@ -12,7 +12,6 @@ Here is a list of my talks and presentations (including presenting work by other
 	October 23, 2019 
 
 - **Joint Multimodal learning with Pretraining**
-
 	[Slides](/static/ppt/VLBERTs.pdf){: .btn}  
 	*Document Intelligence Reading Group*  
 	Adobe Research, Bangalore

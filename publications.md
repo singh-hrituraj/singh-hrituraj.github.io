@@ -9,7 +9,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 - **Generating Summaries tailored to target characteristics**  
 	Kushal Chawla, **Hrituraj Singh**, Arijit Pramanik, Mithlesh Kumar, Balaji Vasan Srinivasan.  
 	*20th International Conference on Computational Linguistics and Intelligent Text Processing* (CiCLing) 2019.  
-	[PDF](https://arxiv.org/pdf/1912.08492.pdf): .btn}
+	[PDF](https://arxiv.org/pdf/1912.08492.pdf){: .btn}
 
 
 
