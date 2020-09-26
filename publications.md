@@ -13,7 +13,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 
 - **Incorporating Stylistic Lexical Preferences in Generative Language Models**  
 	**Hrituraj Singh**, Gaurav Verma, Balaji Vasan Srinivasan.  
-	*Accepted as Short Paper to EMNLP 2020*  
+	*Accepted as Short Paper to Findings of EMNLP 2020*  
 
 
 - **Exploring Neural Models for Parsing Natural Language into First-Order Logic**  
