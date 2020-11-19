@@ -29,9 +29,9 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 - **Multisurface Proximal SVM based decision trees for heart disease classification**   
 	**Hrituraj Singh**, NV Navaneeth , GN Pillai.  
 	*IEEE Region 10 Conference* (TENCON) 2019.  
-	[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8929618){: .btn}.  
+	[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8929618){: .btn}
 	[Code](https://github.com/singh-hrituraj/GBPSVM-Trees){: .btn}  
-<br /> 
+
 
 <span style="color:blue">**Preprints/Arxiv**</span>
 - **Exploring Neural Models for Parsing Natural Language into First-Order Logic**  
@@ -42,7 +42,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 
 <span style="color:blue">**Patents**</span>
 - **Modality Agnostic Information Retrieval from Documents**  
-	**Hrituraj Singh**, Aishwarya Aggarwal, Jatin Lamba, Anshul Nasery, Denil Mehta, Balaji Vasan Srinivasan.
+	**Hrituraj Singh**, Aishwarya Aggarwal, Jatin Lamba, Anshul Nasery, Denil Mehta, Balaji Vasan Srinivasan.  
 	*US Patent Application | Adobe Inc.*
 	*Under Filing*
 
@@ -52,7 +52,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 	*Filed in Nov 2020*
 
 - **Generating Summary Content tuned to a target characteristic using word generation model**  
-	Balaji Vasan Srinivasan, Kushal Chawla, Mithlesh Kumar, **Hrituraj Singh**, Arijit Pramanik. 
-	*US Patent Application | Adobe Inc.*
-	*Filed in Jan 2019.*
+	Balaji Vasan Srinivasan, Kushal Chawla, Mithlesh Kumar, **Hrituraj Singh**, Arijit Pramanik.  
+	*US Patent Application | Adobe Inc.*  
+	*Filed in Jan 2019.*.  
 	[PDF](https://patents.google.com/patent/US20200242197A1/en){: .btn}
