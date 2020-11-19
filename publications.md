@@ -5,7 +5,8 @@ title: Publications
 
 You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=vDwiIg4AAAAJ" target="_blank">Google Scholar profile</a>.
 <br />
-*Peer Reviewed Conferences*
+
+**Peer Reviewed Conferences**
 
 - **STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering**  
 	**Hrituraj Singh**, Sumit Shekhar.  
@@ -32,14 +33,14 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 	[Code](https://github.com/singh-hrituraj/GBPSVM-Trees){: .btn}  
 <br /> 
 
-*Preprints/Arxiv*
+**Preprints/Arxiv**
 - **Exploring Neural Models for Parsing Natural Language into First-Order Logic**  
 	**Hrituraj Singh**, Milan Aggarwal, Balaji Krishnamurthy.  
 	*arXiv preprint arXiv:2002.06544*  
 	[PDF](https://arxiv.org/pdf/2002.06544.pdf){: .btn}
 
 
-*Patents*
+**Patents**
 - **Modality Agnostic Information Retrieval from Documents**  
 	**Hrituraj Singh**, Aishwarya Aggarwal, Jatin Lamba, Anshul Nasery, Denil Mehta, Balaji Vasan Srinivasan 
 	*US Patent Application | Adobe Inc.*
